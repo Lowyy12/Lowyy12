@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Lowy</h1>
+<h1>👋 Hi, I'm Lowy</h1>
 <h3>Cybersecurity, programming and networks</h3>
 <br>
 
