@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Lowy</h1>
 <h3 align>Cybersecurity, programming and networks</h3>
-
+<br>
 
 <p> 👨‍💻 Soy un estudiante de ASIR (Administración de sistema en red) en mis ratos libres me gusta hacer proyectos relacionados con la progamación y las redes</p>
 
