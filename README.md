@@ -1,7 +1,7 @@
 <h1>👋 Hola, soy Lowy</h1>
 
 <h2><font color="lightblue">Ciberseguridad, bases de datos, programación y administración de redes</font></h2>
-**Negrita**
+
 <br>
 
 <p>👨‍💻 Soy un estudiante de ASIR (Administración de sistema en red) en mis ratos libres me gusta hacer proyectos relacionados con la progamación y las redes.</p>
