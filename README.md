@@ -1,6 +1,6 @@
 <h1>👋 Hola, soy Lowy</h1>
 
-<h2><font color="lightblue">Ciberseguridad, bases de datos, programación y administración de redes</font></h2>
+<h2><font color="lightblue">Ciberseguridad, bases de datos, programación y administración de redes.</font></h2>
 
 <br>
 
