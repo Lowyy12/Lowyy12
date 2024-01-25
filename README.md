@@ -9,11 +9,12 @@
   <li>
     Python
   </li>
-  <ul>
-    <li>
-      Bash
-    </li>
-  </ul>
+  <li>
+    Bash
+  </li>
+  <li>
+    SQL
+  </li>
 </ul>
 [Blog personal](https://pentestlowyy.wordpress.com/)
 
