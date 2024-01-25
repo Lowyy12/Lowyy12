@@ -5,7 +5,16 @@
 <br>
 
 <p>👨‍💻 Soy un estudiante de ASIR (Administración de sistema en red) en mis ratos libres me gusta hacer proyectos relacionados con la progamación y las redes.</p>
-
+<ul>
+  <li>
+    Python
+  </li>
+  <ul>
+    <li>
+      Bash
+    </li>
+  </ul>
+</ul>
 [Blog personal](https://pentestlowyy.wordpress.com/)
 
 <h3 align="left">Conocimientos:</h3>
